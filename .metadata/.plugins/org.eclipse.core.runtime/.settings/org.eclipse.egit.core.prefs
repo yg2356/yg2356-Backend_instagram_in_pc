@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\workspace\\springbootwork\\photogram\\.git;
-GitRepositoriesView.GitDirectories.relative=photogram\\.git;
+GitRepositoriesView.GitDirectories=C\:\\workspace\\springbootwork\\.git;C\:\\workspace\\springbootwork\\photogram\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;photogram\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
